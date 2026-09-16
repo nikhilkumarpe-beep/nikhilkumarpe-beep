@@ -1,4 +1,4 @@
-# Hi, I'm Nikhil Kumar PE 👋
+# Hi, I'm Nikhil Kumar PE 
 
 ### Aspiring Python Developer | CSE Student | Backend & AI/ML Enthusiast
 
