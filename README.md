@@ -1,4 +1,4 @@
-# Hi, I'm Nikhil Kumar PE 
+# Hi, I'm Nikhil Kumar PE 👋
 
 ### Aspiring Python Developer | CSE Student | Backend & AI/ML Enthusiast
 
@@ -73,6 +73,8 @@ To become a strong software developer by consistently **building, learning, solv
 If you're interested in collaborating on projects, discussing technology, or sharing learning resources, feel free to connect with me.
 
 📍 Bengaluru, India
+
+📧 [nikhilkumarpe@gmail.com](mailto:nikhilkumarpe@gmail.com)
 
 🔗 [GitHub](https://github.com/nikhilkumarpe-beep)
 
