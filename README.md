@@ -1,4 +1,4 @@
-# Hi, I'm Nikhil Kumar PE 👋
+# Hi, I'm Nikhil Kumar PE 
 
 ### Aspiring Python Developer | CSE Student | Backend & AI/ML Enthusiast
 
@@ -8,13 +8,13 @@ Currently, I'm working on **Python, Data Structures & Algorithms, backend develo
 
 ## About Me
 
-- 🎓 Computer Science Engineering student
-- 🐍 Focused on Python development and problem solving
-- 💻 Learning Data Structures & Algorithms and practicing LeetCode
-- 🌐 Interested in backend development, databases, and web applications
-- 🤖 Exploring Machine Learning and Computer Vision
-- 🚀 Building projects to gain hands-on software development experience
-- 💼 Open to internship opportunities and real-world software development experience
+- Computer Science Engineering student
+-  Focused on Python development and problem solving
+-  Learning Data Structures & Algorithms and practicing LeetCode
+-  Interested in backend development, databases, and web applications
+-  Exploring Machine Learning and Computer Vision
+-  Building projects to gain hands-on software development experience
+-  Open to internship opportunities and real-world software development experience
 
 ## Tech Stack
 
@@ -85,11 +85,11 @@ To become a strong software developer by consistently **building, learning, solv
 
 If you're interested in collaborating on projects, discussing technology, or sharing learning resources, feel free to connect with me.
 
-📍 Bengaluru, India
+Location: Bengaluru, India
 
-📧 [nikhilkumarpe@gmail.com](mailto:nikhilkumarpe@gmail.com)
+ [nikhilkumarpe@gmail.com](mailto:nikhilkumarpe@gmail.com)
 
-🔗 [GitHub](https://github.com/nikhilkumarpe-beep)
+ [GitHub](https://github.com/nikhilkumarpe-beep)
 
 ---
 
