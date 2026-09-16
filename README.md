@@ -42,6 +42,19 @@ Currently, I'm working on **Python, Data Structures & Algorithms, backend develo
 
 `Git` `GitHub` `VS Code`
 
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkumarpe-beep&show_icons=true&hide_border=true&include_all_commits=true&count_private=false" height="170" alt="Nikhil's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumarpe-beep&layout=compact&hide_border=true&langs_count=6" height="170" alt="Nikhil's most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nikhilkumarpe-beep&hide_border=true" height="170" alt="Nikhil's GitHub contribution streak" />
+</p>
+
+> These cards reflect public GitHub activity and repository language statistics. They are intended as a quick snapshot, not a measure of programming skill.
+
 ## Featured Projects
 
 ### 🩸 BloodBridge
