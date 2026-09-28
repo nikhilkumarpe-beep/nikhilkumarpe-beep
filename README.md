@@ -56,9 +56,9 @@ A full-stack blood donation management platform built with **Python, Flask, MySQ
 [View BloodBridge](https://github.com/nikhilkumarpe-beep/BloodBridge)
 
 ### NoNap — Driver Drowsiness Detection
-A real-time driver drowsiness detection application combining a **React Native/Expo mobile app**, a **Python inference backend using YOLOv8 and Vision Transformer (ViT)**, and a **Next.js website**. The project aims to help detect driver fatigue and support timely alerts.
+A driver-drowsiness detection prototype with an **Expo/React Native client** and a **Python computer-vision backend** using YOLO face detection, dlib landmarks, EAR/MAR features, and a hysteresis-based state machine. The current ViT analyzer is a fallback implementation rather than trained ViT inference. This is my working fork of the upstream project.
 
-[View NoNap](https://github.com/priyadharshiniep05/NoNap)
+[View my NoNap fork](https://github.com/nikhilkumarpe-beep/NoNap) · [Upstream project](https://github.com/priyadharshiniep05/NoNap)
 
 ### PickPlot Order Picker
 A browser-based warehouse route visualization tool that uses **Breadth-First Search (BFS)** to calculate and animate shortest paths through configurable obstacle-based grids.
