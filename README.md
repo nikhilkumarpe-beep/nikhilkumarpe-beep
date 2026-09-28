@@ -60,6 +60,11 @@ A browser-based warehouse route visualization tool that uses **Breadth-First Sea
 
 [View PickPlot](https://github.com/nikhilkumarpe-beep/pickplot-order-picker)
 
+### NoNap — Driver Drowsiness Detection
+A real-time driver drowsiness detection application combining a **React Native/Expo mobile app**, a **Python inference backend using YOLOv8 and Vision Transformer (ViT)**, and a **Next.js website**. The project aims to help detect driver fatigue and support timely alerts.
+
+[View NoNap](https://github.com/priyadharshiniep05/NoNap)
+
 ## Currently Learning
 
 - Python fundamentals and advanced concepts
